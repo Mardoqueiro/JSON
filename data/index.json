@@ -1,0 +1,39 @@
+{
+    "results": [
+        {
+            "productName":"Retro Queiro",
+            "category": "eyeglasses",
+            "description": "Just a logo",
+            "ammount": 350.50,
+            "image":"https://mardoqueiro.github.io/all_images/eyeglasses/retro_queiro.png"
+        },
+        {
+            "productName":"Retro",
+            "category": "Anything you want",
+            "description": "whatever you want",
+            "ammount": 450.50,
+            "image":"https://mardoqueiro.github.io/all_images/images/0f2aeb671c21d094e80784c4c8b712c7.jpg"
+        },
+        {
+            "productName":"Queiro",
+            "category": "what do you want",
+            "description": "however you want",
+            "ammount": 600.50,
+            "image":"https://mardoqueiro.github.io/all_images/images/keyboaard.img.png"
+        },
+        {
+            "productName":"Stuff",
+            "category": "what stuff?",
+            "description": "how do you want it?",
+            "ammount": 390.50,
+            "image":"https://mardoqueiro.github.io/all_images/images/Calculator_img.png"
+        },
+        {
+            "productName":"Something",
+            "category": "nothing here",
+            "description": "Do you want something here",
+            "ammount": 550.50,
+            "image":"https://mardoqueiro.github.io/all_images/images/Building a Unified Team - John Maxwell.jpg"
+        }
+    ]
+}
